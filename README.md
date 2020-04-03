@@ -1,6 +1,6 @@
 
 <div >
-  <a href="https://vk.com/app7307451">
+  <a href="https://vk.com/app7388800">
     <img width="100" height="100" src="https://sun9-56.userapi.com/c813024/v813024418/31781/HS8fuf7siuY.jpg">
   </a>
   </div>
