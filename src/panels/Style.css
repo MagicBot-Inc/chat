@@ -1,0 +1,35 @@
+
+:root {
+  --background_page: #141414;
+}
+
+body[scheme="bright_light"] {
+  --background_page: #ffffff;
+}
+.Persik {
+  display: block;
+  width: 70%;
+  max-width: 240px;
+  margin: 20px auto;
+}
+.minAvatar{
+  width: 40%;
+  height: 40%;
+}
+.MyBlock {
+  color: gold;
+}
+.link[scheme="client_dark"] {
+  color: var(--background_page);
+}
+.link{
+  color: var(--text_primary);
+}
+.Profile{
+  display: flex;
+  padding: 0;
+  align-items:center;
+  margin-left: 10px;
+  text-align:center;
+  font-size:13px;
+}
